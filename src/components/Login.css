@@ -1,0 +1,44 @@
+.box{
+    width: 27%;
+    height: 450px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    background-color: #e3dadb;
+    
+
+}
+
+
+#font{
+font-size: 30px;
+margin-left: 30px;
+
+}
+
+#email,#password,#phone{
+    width: 90%;
+    font-size: 15px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border: 1px solid gray;
+    padding: 5px;
+}
+#btn{
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border: 0px solid gray;
+    background-color: rgb(226, 166, 14);
+    padding: 10px;
+    border-radius: 5px;
+}
+img{
+    width: 150px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.lable{
+    margin-right: 70%;
+}

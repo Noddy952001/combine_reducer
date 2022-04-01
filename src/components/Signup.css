@@ -1,0 +1,84 @@
+
+#smallbox3{
+    margin-top: 100px;
+    width: 47%;
+    margin: auto;
+    text-align: left;
+    margin-top: 90px;
+
+}
+#welcome{
+
+    line-height:
+    35.2px;
+    vertical-align:
+    baseline;
+    letter-spacing:
+    normal;
+    word-spacing:
+    0px;
+    font-size: 32px;
+    font-family:
+    "Means Web", Georgia, Times, "Times New Roman", serif;
+    margin-left: 30%;
+
+}
+#create{
+    margin-top: 10px;
+    font-size: 16px;
+}
+#create>span{
+    color: darkcyan;
+    cursor: pointer;
+}
+
+#form{
+    margin-top: 20px;
+}
+
+#email{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Graphik Web", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+
+}
+
+#emailInput{
+    width: 97%;
+    margin: 12px 0px;
+    height: 38px;
+    font-size: 16px;
+    /* color: ; */
+    outline-color: darkcyan;
+}
+
+
+
+
+#button{
+    width: 160px;
+    height: 40px;
+    border: 1px solid #dedddc;
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+    font-family: "Graphik Web","Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
+    text-align: center;
+    vertical-align: middle;
+    height: 48px;
+    line-height: 46px;
+    font-size: 16px;
+    background-color: white;
+    margin-left: 40%;
+
+}
+#button:hover{
+    background-color: darkcyan;
+    color: white;
+}
+#credit{
+    color:rgba(36, 28, 21, 0.65);
+    font-size:12px;
+    margin-top:60px;
+    margin-bottom:20px;
+}
